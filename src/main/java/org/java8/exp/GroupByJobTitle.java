@@ -35,6 +35,8 @@ public class GroupByJobTitle {
 
        //emplist.stream().forEach(System.out::println);
        System.out.println("=================================================================");
+       System.out.println("=================================================================");
+       System.out.println("=================================================================");
        System.out.println("");
        Map<String, List<Employee>> stringListMap = groupByJobTitle.groupByJobTitle(emplist);
 
